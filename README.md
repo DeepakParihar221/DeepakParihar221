@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi, I'm Deepak Parihar</h1>
+<h3 align="center"> Final Year Undergraduate @ IIIT VADODARA</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/deepakparihar221b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://leetcode.com/hercules223/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/deepakparihar223/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: deepakparihar223@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
-<!--
-**DeepakParihar221/DeepakParihar221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✔ Pronouns: *He/His* or *TeamMaker*😉 <br>
+✔ I’m currently Developing *My Portfolio* <br>
+✔ I’m currently learning *Node.Js*, *React*<br>
+✔ I'm quite good at *C++*<br>
+✔ I’m looking to collaborate with any *Open - Source contribution*<br>
+✔ I use to write code on [leetcode](https://leetcode.com/hercules223/) <br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakParihar221&show_icons=true&locale=en&layout=compact" alt="Deepak" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakParihar221&count_private=true&show_icons=true" alt="Deepak" width="410" /></p>
+
+<hr>
